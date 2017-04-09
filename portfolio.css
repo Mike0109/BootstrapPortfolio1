@@ -1,0 +1,28 @@
+.navbar-nav {
+	margin-left:60%;
+	border: 5px;
+	border-style: solid;
+	border-color:lightblue;
+	text-align: center;
+	background-color: lightgrey;
+
+}
+
+.panel-default {
+	margin-left: 75%;
+    margin-top: -230px;
+    border: 5px;
+	border-style: solid;
+	border-color:lightblue;
+	text-align: center;
+	background-color: lightgrey;
+
+}
+
+.page-header{
+	border: 5px;
+	border-style: solid;
+	border-color:lightblue;
+	text-align: center;
+	background-color: lightgrey; 
+}

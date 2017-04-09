@@ -1,0 +1,8 @@
+.panel {
+		margin-left:0%;
+	border: 5px;
+	border-style: solid;
+	border-color:lightblue;
+	text-align: center;
+	background-color: lightgrey;
+}
